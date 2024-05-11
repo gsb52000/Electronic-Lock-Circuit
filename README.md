@@ -1,7 +1,7 @@
 # Electronic-Lock-Circuit
 
 # Libraries:
-Keypad.h: For interfacing with the keypad.
+Keypad.h: For interfacing with the keypad.<br>
 Servo.h: For controlling the servo motor.
 LiquidCrystal.h: For controlling the LCD.
 
